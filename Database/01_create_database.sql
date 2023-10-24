@@ -1,0 +1,3 @@
+CREATE DATABASE test;
+
+CREATE SCHEMA test;
